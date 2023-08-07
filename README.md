@@ -2,7 +2,7 @@
 
 Welcome to the Harmonic Sum Calculator project! This repository showcases a hybrid programming approach that combines x86 assembly, C, and C++ to create an efficient harmonic sum calculator. The project was developed as part of CPSC 240 Assembly course and demonstrates the integration of different languages to achieve a functional and educational program.
 
-The Harmonic Sum Calculator calculates the total sum of the [Harmonic Series]([https://duckduckgo.com](https://en.wikipedia.org/wiki/Harmonic_series_(mathematics))/).
+The Harmonic Sum Calculator calculates the total sum of the [Harmonic Series](https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)).
 
 ## About
 
